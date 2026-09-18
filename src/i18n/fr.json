@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "experience": "Expérience",
+    "education": "Formation",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "downloadCV": "Télécharger le CV"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "cta_hire": "Me contacter",
+    "cta_projects": "Voir les projets",
+    "scroll": "Défiler"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "heading": "La personne derrière les données"
+  },
+  "skills": {
+    "eyebrow": "Compétences",
+    "heading": "Avec quoi je travaille"
+  },
+  "experience": {
+    "eyebrow": "Expérience",
+    "heading": "Où j'ai travaillé"
+  },
+  "projects": {
+    "eyebrow": "Projets",
+    "heading": "Travaux sélectionnés",
+    "all": "Tous",
+    "github": "GitHub",
+    "demo": "Démo en direct",
+    "comingSoon": "Bientôt disponible",
+    "viewAll": "Voir tous les projets"
+  },
+  "education": {
+    "eyebrow": "Formation",
+    "heading": "Parcours académique"
+  },
+  "certifications": {
+    "eyebrow": "Certifications",
+    "heading": "Qualifications",
+    "future": "En cours",
+    "viewAll": "Voir toutes les certifications"
+  },
+  "common": {
+    "backHome": "Retour à l'accueil"
+  },
+  "germany": {
+    "eyebrow": "Prochain chapitre"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "heading": "Travaillons ensemble",
+    "name": "Nom",
+    "email": "E-mail",
+    "subject": "Objet",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé — merci !",
+    "error": "Une erreur s'est produite. Veuillez réessayer ou m'écrire directement par e-mail."
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "backToTop": "Retour en haut"
+  }
+}

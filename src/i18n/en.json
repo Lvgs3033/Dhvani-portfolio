@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "education": "Education",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "downloadCV": "Download CV"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "cta_hire": "Hire Me",
+    "cta_projects": "View Projects",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "eyebrow": "About",
+    "heading": "The person behind the data"
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "heading": "What I work with"
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "heading": "Where I've worked"
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "heading": "Selected work",
+    "all": "All",
+    "github": "GitHub",
+    "demo": "Live Demo",
+    "comingSoon": "Coming soon",
+    "viewAll": "View All Projects"
+  },
+  "education": {
+    "eyebrow": "Education",
+    "heading": "Academic record"
+  },
+  "certifications": {
+    "eyebrow": "Certifications",
+    "heading": "Credentials",
+    "future": "In progress",
+    "viewAll": "View All Certificates"
+  },
+  "common": {
+    "backHome": "Back to Home"
+  },
+  "germany": {
+    "eyebrow": "Next Chapter"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "heading": "Let's work together",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent — thank you!",
+    "error": "Something went wrong. Please try again or email me directly."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  }
+}
