@@ -229,7 +229,7 @@ export const experience = [
     ]
   },
 
-  {
+    {
     company: "PharmaForceIQ",
     role: {
       en: "Data Analyst",
@@ -238,6 +238,13 @@ export const experience = [
     } as Bilingual,
     duration: "Jun 2025 – Dec 2026",
     logo: "",
+    points: [
+  {
+    en: "Working as a Data Analyst, analyzing data and building interactive dashboards to track key performance indicators (KPIs) and support data-driven business decisions.",
+    de: "Tätigkeit als Datenanalystin mit Schwerpunkt auf Datenanalyse und der Erstellung interaktiver Dashboards zur Überwachung wichtiger Leistungskennzahlen (KPIs) und zur Unterstützung datengestützter Geschäftsentscheidungen.",
+    fr: "En tant qu’analyste de données, analyse des données et création de tableaux de bord interactifs pour suivre les indicateurs clés de performance (KPI) et soutenir la prise de décision basée sur les données."
+  }
+]
   }
 ];
 
