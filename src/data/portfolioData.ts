@@ -224,8 +224,10 @@ points: [
     de: "Während meines Praktikums entwickelte ich einen KI-gestützten E-Commerce-Operations-Agenten mit LLMs, RAG und Tool Calling zur Automatisierung von Workflows im Bestellmanagement. Ich entwickelte Workflows zur Verarbeitung von Kundenanfragen, zum Abrufen von Bestell- und Produktinformationen, zur Überprüfung von Rückerstattungs- und Ersatzrichtlinien, zur Sendungsverfolgung und zur Ausführung von Aktionen über APIs, wodurch eine schnellere und effizientere Bearbeitung von Kundenanfragen ermöglicht wurde.",
     fr: "Lors de mon stage, j’ai développé un agent d’opérations e-commerce basé sur l’IA utilisant des LLMs, le RAG et le Tool Calling afin d’automatiser les workflows de gestion des commandes. J’ai développé des workflows permettant de comprendre les demandes des clients, de récupérer les informations sur les commandes et les produits, de vérifier les politiques de remboursement et de remplacement, de suivre les expéditions et d’exécuter des actions via des API, permettant ainsi une résolution plus rapide et plus efficace des demandes clients."
   } as Bilingual,
+  ]
+}
 
-  {
+{
   company: "PharmaForceIQ",
   role: {
     en: "Data Analyst",
@@ -244,6 +246,7 @@ points: [
     } as Bilingual
   ]
 }
+  
 ],
 }
 ];
