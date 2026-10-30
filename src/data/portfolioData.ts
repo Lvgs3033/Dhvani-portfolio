@@ -116,6 +116,8 @@ export const skillCategories = [
     "LLMOps",
     "MCP",
     "AI Agents",
+    "Agentic AI",
+    "Generative AI",
     "Prompt Engineering",
     "Fine tuning"
   ],
@@ -191,61 +193,63 @@ export const skillCategories = [
 },
 ];
 
+
 export const experience = [
-
-{
-  company: "GoML, Tamil Nadu",
-  role: { en: "AI Engineer", de: "KI-Ingenieur", fr: "Ingénieur en Intelligence Artificielle" } as Bilingual,
-  duration: "Jan 2026 – Jun 2026",
-  logo: "",
-  points: [
-    {
-      en: "Currently working  as an AI Engineer, developing AI/ML and Generative AI solutions using LLMs, RAG, embeddings, and Python. Building and integrating scalable AI applications focused on real-world business use cases and production deployment. do same",
-      de: "Derzeit arbeite ich als AI Engineer und entwickle AI/ML- sowie Generative-AI-Lösungen mit LLMs, RAG, Embeddings und Python. Ich entwickle und integriere skalierbare KI-Anwendungen mit Fokus auf praxisnahe Geschäftsanwendungen und produktionsreife Bereitstellung.", 
-      fr: "Je travaille actuellement en tant qu’AI Engineer, où je développe des solutions d’IA/ML et d’IA générative utilisant des LLMs, le RAG, les embeddings et Python. Je développe et intègre des applications d’IA évolutives, axées sur des cas d’utilisation métier concrets et leur déploiement en production."
+  {
+    company: "Canopas, Gujarat",
+    role: {
+      en: "AI / ML Engineer",
+      de: "Praktikantin im Bereich KI-/ML-Engineering",
+      fr: "Stagiaire ingénieure en IA / ML"
     } as Bilingual,
-  ],
-},
+    duration: "Jan 2026 – Present",
+    logo: "",
+    points: [
+      {
+        en: "Currently working as an AI Engineer, developing AI/ML and Generative AI solutions using LLMs, RAG, embeddings, and Python. Building and integrating scalable AI applications focused on real-world business use cases and production deployment.",
+        de: "Derzeit arbeite ich als AI Engineer und entwickle KI-/ML- sowie generative KI-Lösungen mit LLMs, RAG, Embeddings und Python. Ich entwickle und integriere skalierbare KI-Anwendungen mit Fokus auf praxisnahe Geschäftsanwendungen und produktionsreife Bereitstellung.",
+        fr: "Je travaille actuellement en tant qu’ingénieure IA, où je développe des solutions d’IA/ML et d’IA générative utilisant les LLMs, le RAG, les embeddings et Python. Je développe et intègre des applications d’IA évolutives, axées sur des cas d’utilisation métier concrets et leur déploiement en production."
+      } as Bilingual
+    ]
+  },
 
   {
-  company: "Canopas, Gujarat",
-  role: { en: "AI / ML Engineer Intern", de: "Praktikantin als KI-/ML-Ingenieurin", fr: "Stagiaire Ingénieure IA / ML" } as Bilingual,
-  duration: "Jan 2026 – Jun 2026",
-  logo: "",
-  points: [
-    {
-      en: "During my internship as an AI/ML Engineer Intern, I worked on live, practical projects involving Artificial Intelligence, Machine Learning, Deep Learning, and workflow automation.",
-      de: "Während meines Praktikums als AI/ML Engineer Intern arbeitete ich an praxisnahen Projekten in den Bereichen Künstliche Intelligenz, Machine Learning, Deep Learning und Workflow-Automatisierung.", 
-      fr: "Lors de mon stage en tant qu’AI/ML Engineer Intern, j’ai travaillé sur des projets pratiques dans les domaines de l’intelligence artificielle, du machine learning, du deep learning et de l’automatisation des workflows."
+    company: "Code4x, Bengaluru",
+    role: {
+      en: "Generative AI Development Intern (Remote)",
+      de: "Praktikantin für die Entwicklung generativer KI (Remote)",
+      fr: "Stagiaire en développement d'IA générative (à distance)"
     } as Bilingual,
+    duration: "Dec 2025 – Jan 2026",
+    logo: "",
+    points: [
+      {
+        en: "Built an AI-powered e-commerce operations agent using LLMs, RAG, and tool calling to automate order management workflows. Developed workflows to understand customer requests, retrieve order and product information, verify refund and replacement policies, track shipments, and execute actions through APIs, enabling faster and more efficient customer order resolution.",
+        de: "Während meines Praktikums entwickelte ich einen KI-gestützten E-Commerce-Agenten mit LLMs, RAG und Tool Calling zur Automatisierung von Bestellprozessen. Ich entwickelte Workflows zur Verarbeitung von Kundenanfragen, zum Abrufen von Bestell- und Produktinformationen, zur Überprüfung von Rückerstattungs- und Ersatzrichtlinien, zur Sendungsverfolgung und zur Ausführung von Aktionen über APIs.",
+        fr: "Lors de mon stage, j’ai développé un agent e-commerce basé sur l’IA utilisant les LLMs, le RAG et le Tool Calling afin d’automatiser les processus de gestion des commandes. J’ai développé des workflows permettant de comprendre les demandes des clients, de récupérer les informations sur les commandes et les produits, de vérifier les politiques de remboursement et de remplacement, de suivre les expéditions et d’exécuter des actions via des API."
+      } as Bilingual
+    ]
+  },
+
     {
-      en: "During my internship, I gained hands-on experience with Python, ML/DL frameworks, Flask, FastAPI, Django, OpenCV, PyAutoGUI, SQL, Docker, LLMs, RAG, LangChain, and n8n, applying these technologies to develop scalable and production-oriented AI solutions",
-      de: "Während meines Praktikums sammelte ich praktische Erfahrungen mit Python, ML/DL-Frameworks, Flask, FastAPI, Django, OpenCV, PyAutoGUI, SQL, Docker, LLMs, RAG, LangChain und n8n und setzte diese Technologien zur Entwicklung skalierbarer und produktionsorientierter KI-Lösungen ein.",
-      fr: "Au cours de mon stage, j’ai acquis une expérience pratique avec Python, les frameworks ML/DL, Flask, FastAPI, Django, OpenCV, PyAutoGUI, SQL, Docker, les LLMs, le RAG, LangChain et n8n, en utilisant ces technologies pour développer des solutions d’IA évolutives et adaptées à la production."
+    company: "PharmaForceIQ",
+    role: {
+      en: "Data Analyst",
+      de: "Datenanalystin",
+      fr: "Analyste de données"
     } as Bilingual,
-  ],
-},
-
-{
- company: "Code4x, Bengaluru",
-role: {
-  en: "Generative AI Development Intern (Remote)",
-  de: "Praktikant für Generative KI-Entwicklung (Remote)",
-  fr: "Stagiaire en développement d'IA générative (à distance)"
-} as Bilingual,
-
-duration: "Dec 2025 – Jan 2026",
-logo: "",
-
-points: [
+    duration: "Jun 2025 – Dec 2026",
+    logo: "",
+    points: [
   {
-    en: "In my this internship i've built an AI-powered e-commerce operations agent using LLMs, RAG, and tool calling to automate order management workflows. Developed workflows to understand customer requests, retrieve order and product information, verify refund and replacement policies, track shipments, and execute actions through APIs, enabling faster and more efficient customer order resolution.same",
-    de: "Während meines Praktikums entwickelte ich einen KI-gestützten E-Commerce-Operations-Agenten mit LLMs, RAG und Tool Calling zur Automatisierung von Workflows im Bestellmanagement. Ich entwickelte Workflows zur Verarbeitung von Kundenanfragen, zum Abrufen von Bestell- und Produktinformationen, zur Überprüfung von Rückerstattungs- und Ersatzrichtlinien, zur Sendungsverfolgung und zur Ausführung von Aktionen über APIs, wodurch eine schnellere und effizientere Bearbeitung von Kundenanfragen ermöglicht wurde.",
-    fr: "Lors de mon stage, j’ai développé un agent d’opérations e-commerce basé sur l’IA utilisant des LLMs, le RAG et le Tool Calling afin d’automatiser les workflows de gestion des commandes. J’ai développé des workflows permettant de comprendre les demandes des clients, de récupérer les informations sur les commandes et les produits, de vérifier les politiques de remboursement et de remplacement, de suivre les expéditions et d’exécuter des actions via des API, permettant ainsi une résolution plus rapide et plus efficace des demandes clients."
-  } as Bilingual,
-],
-}
+    en: "Working as a Data Analyst, analyzing data and building interactive dashboards to track key performance indicators (KPIs) and support data-driven business decisions.",
+    de: "Tätigkeit als Datenanalystin mit Schwerpunkt auf Datenanalyse und der Erstellung interaktiver Dashboards zur Überwachung wichtiger Leistungskennzahlen (KPIs) und zur Unterstützung datengestützter Geschäftsentscheidungen.",
+    fr: "En tant qu’analyste de données, analyse des données et création de tableaux de bord interactifs pour suivre les indicateurs clés de performance (KPI) et soutenir la prise de décision basée sur les données."
+  }
+]
+  }
 ];
+
 
 export const projectCategories = [
   "Company Project",
