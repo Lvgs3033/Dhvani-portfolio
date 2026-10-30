@@ -243,7 +243,7 @@ points: [
       en: "Developed and deployed AI/ML and Generative AI solutions using Python, LLMs, RAG, embeddings, and AI frameworks. Built scalable AI applications, integrated intelligent workflows and APIs, and delivered production-oriented solutions for real-world business use cases.",
       de: "Entwicklung und Bereitstellung von KI-/ML- und generativen KI-Lösungen mit Python, LLMs, RAG, Embeddings und KI-Frameworks. Entwicklung skalierbarer KI-Anwendungen, Integration intelligenter Workflows und APIs sowie Bereitstellung produktionsorientierter Lösungen für reale geschäftliche Anwendungsfälle.",
       fr: "Développement et déploiement de solutions d’IA/ML et d’IA générative à l’aide de Python, des LLMs, du RAG, des embeddings et de frameworks d’IA. Création d’applications d’IA évolutives, intégration de workflows intelligents et d’API, et mise en œuvre de solutions adaptées à la production pour répondre à des besoins métiers concrets."
-    } as Bilingual
+    } as Bilingual,
   ]
 }
   
