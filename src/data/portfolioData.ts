@@ -193,35 +193,16 @@ export const skillCategories = [
 
 export const experience = [
 
-{
-  company: "GoML, Tamil Nadu",
-  role: { en: "AI Engineer", de: "KI-Ingenieur", fr: "Ingénieur en Intelligence Artificielle" } as Bilingual,
-  duration: "Jan 2026 – Jun 2026",
+  {
+  company: "Canopas, Gujarat",
+  role: { en: "AI / ML Engineer Intern", de: "Praktikantin als KI-/ML-Ingenieurin", fr: "Stagiaire Ingénieure IA / ML" } as Bilingual,
+  duration: "Jan 2026 – Present",
   logo: "",
   points: [
     {
       en: "Currently working  as an AI Engineer, developing AI/ML and Generative AI solutions using LLMs, RAG, embeddings, and Python. Building and integrating scalable AI applications focused on real-world business use cases and production deployment. do same",
       de: "Derzeit arbeite ich als AI Engineer und entwickle AI/ML- sowie Generative-AI-Lösungen mit LLMs, RAG, Embeddings und Python. Ich entwickle und integriere skalierbare KI-Anwendungen mit Fokus auf praxisnahe Geschäftsanwendungen und produktionsreife Bereitstellung.", 
       fr: "Je travaille actuellement en tant qu’AI Engineer, où je développe des solutions d’IA/ML et d’IA générative utilisant des LLMs, le RAG, les embeddings et Python. Je développe et intègre des applications d’IA évolutives, axées sur des cas d’utilisation métier concrets et leur déploiement en production."
-    } as Bilingual,
-  ],
-},
-
-  {
-  company: "Canopas, Gujarat",
-  role: { en: "AI / ML Engineer Intern", de: "Praktikantin als KI-/ML-Ingenieurin", fr: "Stagiaire Ingénieure IA / ML" } as Bilingual,
-  duration: "Jan 2026 – Jun 2026",
-  logo: "",
-  points: [
-    {
-      en: "During my internship as an AI/ML Engineer Intern, I worked on live, practical projects involving Artificial Intelligence, Machine Learning, Deep Learning, and workflow automation.",
-      de: "Während meines Praktikums als AI/ML Engineer Intern arbeitete ich an praxisnahen Projekten in den Bereichen Künstliche Intelligenz, Machine Learning, Deep Learning und Workflow-Automatisierung.", 
-      fr: "Lors de mon stage en tant qu’AI/ML Engineer Intern, j’ai travaillé sur des projets pratiques dans les domaines de l’intelligence artificielle, du machine learning, du deep learning et de l’automatisation des workflows."
-    } as Bilingual,
-    {
-      en: "During my internship, I gained hands-on experience with Python, ML/DL frameworks, Flask, FastAPI, Django, OpenCV, PyAutoGUI, SQL, Docker, LLMs, RAG, LangChain, and n8n, applying these technologies to develop scalable and production-oriented AI solutions",
-      de: "Während meines Praktikums sammelte ich praktische Erfahrungen mit Python, ML/DL-Frameworks, Flask, FastAPI, Django, OpenCV, PyAutoGUI, SQL, Docker, LLMs, RAG, LangChain und n8n und setzte diese Technologien zur Entwicklung skalierbarer und produktionsorientierter KI-Lösungen ein.",
-      fr: "Au cours de mon stage, j’ai acquis une expérience pratique avec Python, les frameworks ML/DL, Flask, FastAPI, Django, OpenCV, PyAutoGUI, SQL, Docker, les LLMs, le RAG, LangChain et n8n, en utilisant ces technologies pour développer des solutions d’IA évolutives et adaptées à la production."
     } as Bilingual,
   ],
 },
