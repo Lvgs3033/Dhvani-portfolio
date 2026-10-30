@@ -195,7 +195,7 @@ export const experience = [
 
   {
   company: "Canopas, Gujarat",
-  role: { en: "AI / ML Engineer Intern", de: "Praktikantin als KI-/ML-Ingenieurin", fr: "Stagiaire Ingénieure IA / ML" } as Bilingual,
+  role: {en: "AI / ML Engineer", de: "Praktikantin im Bereich KI-/ML-Engineering", fr: "Stagiaire ingénieure en IA / ML" } as Bilingual,
   duration: "Jan 2026 – Present",
   logo: "",
   points: [
