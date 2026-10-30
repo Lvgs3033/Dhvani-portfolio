@@ -191,65 +191,63 @@ export const skillCategories = [
 },
 ];
 
+
 export const experience = [
+  {
+    company: "Canopas, Gujarat",
+    role: {
+      en: "AI / ML Engineer",
+      de: "Praktikantin im Bereich KI-/ML-Engineering",
+      fr: "Stagiaire ingénieure en IA / ML"
+    } as Bilingual,
+    duration: "Jan 2026 – Present",
+    logo: "",
+    points: [
+      {
+        en: "Currently working as an AI Engineer, developing AI/ML and Generative AI solutions using LLMs, RAG, embeddings, and Python. Building and integrating scalable AI applications focused on real-world business use cases and production deployment.",
+        de: "Derzeit arbeite ich als AI Engineer und entwickle KI-/ML- sowie generative KI-Lösungen mit LLMs, RAG, Embeddings und Python. Ich entwickle und integriere skalierbare KI-Anwendungen mit Fokus auf praxisnahe Geschäftsanwendungen und produktionsreife Bereitstellung.",
+        fr: "Je travaille actuellement en tant qu’ingénieure IA, où je développe des solutions d’IA/ML et d’IA générative utilisant les LLMs, le RAG, les embeddings et Python. Je développe et intègre des applications d’IA évolutives, axées sur des cas d’utilisation métier concrets et leur déploiement en production."
+      } as Bilingual
+    ]
+  },
 
   {
-  company: "Canopas, Gujarat",
-  role: {en: "AI / ML Engineer", de: "Praktikantin im Bereich KI-/ML-Engineering", fr: "Stagiaire ingénieure en IA / ML" } as Bilingual,
-  duration: "Jan 2026 – Present",
-  logo: "",
-  points: [
-    {
-      en: "Currently working  as an AI Engineer, developing AI/ML and Generative AI solutions using LLMs, RAG, embeddings, and Python. Building and integrating scalable AI applications focused on real-world business use cases and production deployment. do same",
-      de: "Derzeit arbeite ich als AI Engineer und entwickle AI/ML- sowie Generative-AI-Lösungen mit LLMs, RAG, Embeddings und Python. Ich entwickle und integriere skalierbare KI-Anwendungen mit Fokus auf praxisnahe Geschäftsanwendungen und produktionsreife Bereitstellung.", 
-      fr: "Je travaille actuellement en tant qu’AI Engineer, où je développe des solutions d’IA/ML et d’IA générative utilisant des LLMs, le RAG, les embeddings et Python. Je développe et intègre des applications d’IA évolutives, axées sur des cas d’utilisation métier concrets et leur déploiement en production."
+    company: "Code4x, Bengaluru",
+    role: {
+      en: "Generative AI Development Intern (Remote)",
+      de: "Praktikantin für die Entwicklung generativer KI (Remote)",
+      fr: "Stagiaire en développement d'IA générative (à distance)"
     } as Bilingual,
-  ],
-},
+    duration: "Dec 2025 – Jan 2026",
+    logo: "",
+    points: [
+      {
+        en: "Built an AI-powered e-commerce operations agent using LLMs, RAG, and tool calling to automate order management workflows. Developed workflows to understand customer requests, retrieve order and product information, verify refund and replacement policies, track shipments, and execute actions through APIs, enabling faster and more efficient customer order resolution.",
+        de: "Während meines Praktikums entwickelte ich einen KI-gestützten E-Commerce-Agenten mit LLMs, RAG und Tool Calling zur Automatisierung von Bestellprozessen. Ich entwickelte Workflows zur Verarbeitung von Kundenanfragen, zum Abrufen von Bestell- und Produktinformationen, zur Überprüfung von Rückerstattungs- und Ersatzrichtlinien, zur Sendungsverfolgung und zur Ausführung von Aktionen über APIs.",
+        fr: "Lors de mon stage, j’ai développé un agent e-commerce basé sur l’IA utilisant les LLMs, le RAG et le Tool Calling afin d’automatiser les processus de gestion des commandes. J’ai développé des workflows permettant de comprendre les demandes des clients, de récupérer les informations sur les commandes et les produits, de vérifier les politiques de remboursement et de remplacement, de suivre les expéditions et d’exécuter des actions via des API."
+      } as Bilingual
+    ]
+  },
 
-{
- company: "Code4x, Bengaluru",
-role: {
-  en: "Generative AI Development Intern (Remote)",
-  de: "Praktikant für Generative KI-Entwicklung (Remote)",
-  fr: "Stagiaire en développement d'IA générative (à distance)"
-} as Bilingual,
-
-duration: "Dec 2025 – Jan 2026",
-logo: "",
-
-points: [
   {
-    en: "In my this internship i've built an AI-powered e-commerce operations agent using LLMs, RAG, and tool calling to automate order management workflows. Developed workflows to understand customer requests, retrieve order and product information, verify refund and replacement policies, track shipments, and execute actions through APIs, enabling faster and more efficient customer order resolution.same",
-    de: "Während meines Praktikums entwickelte ich einen KI-gestützten E-Commerce-Operations-Agenten mit LLMs, RAG und Tool Calling zur Automatisierung von Workflows im Bestellmanagement. Ich entwickelte Workflows zur Verarbeitung von Kundenanfragen, zum Abrufen von Bestell- und Produktinformationen, zur Überprüfung von Rückerstattungs- und Ersatzrichtlinien, zur Sendungsverfolgung und zur Ausführung von Aktionen über APIs, wodurch eine schnellere und effizientere Bearbeitung von Kundenanfragen ermöglicht wurde.",
-    fr: "Lors de mon stage, j’ai développé un agent d’opérations e-commerce basé sur l’IA utilisant des LLMs, le RAG et le Tool Calling afin d’automatiser les workflows de gestion des commandes. J’ai développé des workflows permettant de comprendre les demandes des clients, de récupérer les informations sur les commandes et les produits, de vérifier les politiques de remboursement et de remplacement, de suivre les expéditions et d’exécuter des actions via des API, permettant ainsi une résolution plus rapide et plus efficace des demandes clients."
-  } as Bilingual,
-  ]
-}
-
-{
-  company: "PharmaForceIQ",
-  role: {
-    en: "Data Analyst",
-    de: "Datenanalystin",
-    fr: "Analyste de données"
-  } as Bilingual,
-
-  duration: "Jun 2025 – Dec 2026",
-  logo: "",
-
-  points: [
-    {
-      en: "Developed and deployed AI/ML and Generative AI solutions using Python, LLMs, RAG, embeddings, and AI frameworks. Built scalable AI applications, integrated intelligent workflows and APIs, and delivered production-oriented solutions for real-world business use cases.",
-      de: "Entwicklung und Bereitstellung von KI-/ML- und generativen KI-Lösungen mit Python, LLMs, RAG, Embeddings und KI-Frameworks. Entwicklung skalierbarer KI-Anwendungen, Integration intelligenter Workflows und APIs sowie Bereitstellung produktionsorientierter Lösungen für reale geschäftliche Anwendungsfälle.",
-      fr: "Développement et déploiement de solutions d’IA/ML et d’IA générative à l’aide de Python, des LLMs, du RAG, des embeddings et de frameworks d’IA. Création d’applications d’IA évolutives, intégration de workflows intelligents et d’API, et mise en œuvre de solutions adaptées à la production pour répondre à des besoins métiers concrets."
+    company: "PharmaForceIQ",
+    role: {
+      en: "Data Analyst",
+      de: "Datenanalystin",
+      fr: "Analyste de données"
     } as Bilingual,
-  ]
-}
-  
-],
-}
+    duration: "Jun 2025 – Dec 2026",
+    logo: "",
+    points: [
+      {
+        en: "Developed and deployed AI/ML and Generative AI solutions using Python, LLMs, RAG, embeddings, and AI frameworks. Built scalable AI applications, integrated intelligent workflows and APIs, and delivered production-oriented solutions for real-world business use cases.",
+        de: "Entwicklung und Bereitstellung von KI-/ML- und generativen KI-Lösungen mit Python, LLMs, RAG, Embeddings und KI-Frameworks. Entwicklung skalierbarer KI-Anwendungen, Integration intelligenter Workflows und APIs sowie Bereitstellung produktionsorientierter Lösungen für reale geschäftliche Anwendungsfälle.",
+        fr: "Développement et déploiement de solutions d’IA/ML et d’IA générative à l’aide de Python, des LLMs, du RAG, des embeddings et de frameworks d’IA. Création d’applications d’IA évolutives, intégration de workflows intelligents et d’API, et mise en œuvre de solutions adaptées à la production pour répondre à des besoins métiers concrets."
+      } as Bilingual
+    ]
+  }
 ];
+
 
 export const projectCategories = [
   "Company Project",
