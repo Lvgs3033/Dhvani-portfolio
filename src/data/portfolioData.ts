@@ -116,6 +116,8 @@ export const skillCategories = [
     "LLMOps",
     "MCP",
     "AI Agents",
+    "Agentic AI",
+    "Generative AI",
     "Prompt Engineering",
     "Fine tuning"
   ],
